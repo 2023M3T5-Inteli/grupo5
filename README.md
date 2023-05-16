@@ -4,10 +4,8 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Nome do projeto
-Cure Mate
-## Nome do grupo
-OncoAI
+# Cure Mate
+## OncoAI
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/bruno-wasserstein">Bruno Wasserstein</a>
 - <a href="https://www.linkedin.com/in/gabriel-gallo-m-coutinho-443809232/">Gabriel Gallo Menequini Coutinho</a>
@@ -19,7 +17,7 @@ OncoAI
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+Foi criado um sistema de recomendação para auxiliar na decisão sobre a melhor opção de tratamento para pacientes com câncer de mama. O modelo preditivo utilizado foi desenvolvido a partir de dados de coortes de pacientes acompanhados em projetos de pesquisa conduzidos pelo Instituto do Câncer do Estado de São Paulo, em parceria com a Faculdade de Medicina da Universidade de São Paulo.
 
 ## 📁 Estrutura de pastas
 
